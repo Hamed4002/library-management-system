@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Runtime-generated data file (auto-created on first run)
+LMS.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
